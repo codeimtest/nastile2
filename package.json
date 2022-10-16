@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "rellax": "^1.12.1",
+    "scroll-parallax": "^3.0.3"
+  }
+}
